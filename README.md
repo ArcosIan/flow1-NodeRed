@@ -5,11 +5,11 @@ El flow 1 representa el primer ejercicio a realizar con NodeRed. Este ejercicio 
 # Material Necesario
 Para realizar este flow necesitas lo siguiente
 
-    Ubuntu 20.04
-    NodeJS
-        NPM
-        NodeRed
-        Nodos Dashboard
+   [ [Ubuntu 20.04](https://releases.ubuntu.com/20.04/)](https://releases.ubuntu.com/20.04/)
+   [ NodeJS](https://nodejs.org/es/)
+       [ NPM](https://www.npmjs.com/)
+        [NodeRed](https://nodered.org/docs/getting-started/local)
+      [  Nodos Dashboard](https://flows.nodered.org/node/node-red-dashboard)
 # Material de referencia
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
 
@@ -51,6 +51,10 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 
 # Evidencias
+
+https://user-images.githubusercontent.com/111370977/186705372-a6928dbb-10a7-479a-9472-da9ccbf33b1e.mp4
+
+
 
 # Creditos
 Desarrollado por Ian Arcos
